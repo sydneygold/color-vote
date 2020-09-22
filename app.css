@@ -10,6 +10,8 @@ body {
 
 #card-container {
     display: flex;
+    flex-flow: wrap;
+    justify-content: space-around;
 }
 
 .color-card {
